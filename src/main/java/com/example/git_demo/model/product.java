@@ -3,8 +3,8 @@ package com.example.git_demo.model;
 public class product {
     private int Id;
     private String name;
-    private String email'
-        '
+    private String email;
+
 
     public int getId() {
         return Id;
